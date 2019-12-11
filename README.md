@@ -23,8 +23,9 @@ $ npm run generate
 
 ## other repositories
 
+* https://github.com/daggerok/webflux-kotlin-ionic-nuxt-mono-app
 * https://github.com/daggerok/vue-ionic-example
-* https://github.com/daggerok/ionic-nuxt-ap
+* https://github.com/daggerok/ionic-nuxt-app
 * https://github.com/daggerok/nuxt-examples
 * https://github.com/daggerok/vue-examples
 
